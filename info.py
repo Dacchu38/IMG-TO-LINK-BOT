@@ -23,7 +23,7 @@ START_PIC = environ.get("START_PIC", "https://files.catbox.moe/045zcm.jpg")
 # ᴄʀᴇᴅɪᴛ   : ᴀᴠ ʙᴏᴛᴢ | ᴀᴍᴀɴ ᴠɪsʜᴡᴀᴋᴀʀᴍᴀ
 # ────────────────────────────────────────
 
-ADMINS = list(map(int, environ.get("ADMINS", "5912466219").split()))
+ADMINS = list(map(int, environ.get("ADMINS", "651624420").split()))
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1003888435322"))
 DB_URL = environ.get('DATABASE_URI', "mongodb+srv://rai:rai@cluster0.fktwown.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
