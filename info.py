@@ -10,9 +10,9 @@ def str_to_bool(val):
 # ᴄʀᴇᴅɪᴛ   : ᴀᴠ ʙᴏᴛᴢ | ᴀᴍᴀɴ ᴠɪsʜᴡᴀᴋᴀʀᴍᴀ
 # ────────────────────────────────────────
 
-API_ID = int(environ.get('API_ID', '29388536'))
-API_HASH = environ.get('API_HASH', '1795cfeb72fdd9741bbaab5e02c57668')
-BOT_TOKEN = environ.get("BOT_TOKEN", "8603670245:AAEKVivPfBB6rKwSJzPdjAT_QCIhUg0ayuU")
+API_ID = int(environ.get('API_ID', '2938536'))
+API_HASH = environ.get('API_HASH', '1795cfeb72fdd9741bbaab5e0c57668')
+BOT_TOKEN = environ.get("BOT_TOKEN", "8603670245:AAEKVivPfBB6rKwSJzPdjAT_QChUg0ayuU")
 PORT = environ.get("PORT", "8080")
 START_PIC = environ.get("START_PIC", "https://files.catbox.moe/045zcm.jpg")
 
@@ -25,7 +25,7 @@ START_PIC = environ.get("START_PIC", "https://files.catbox.moe/045zcm.jpg")
 
 ADMINS = list(map(int, environ.get("ADMINS", "651624420").split()))
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1003888435322"))
-DB_URL = environ.get('DATABASE_URI', "mongodb+srv://rai:rai@cluster0.fktwown.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URL = environ.get('DATABASE_URI', "mongodb+srv://rai:rai@cluster0.fktwown.mongodb.net/?retryWrtes=true&w=majority&appName=Cluster0")
 
 # ── ᴀᴠ ʙᴏᴛᴢ ─────────────────────────────
 # ᴜᴘᴅᴀᴛᴇs  : https://t.me/AV_BOTz_UPDATE
