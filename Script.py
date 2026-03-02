@@ -16,7 +16,7 @@ class script(object):
 🛡️ sᴇᴄᴜʀᴇ & ᴘʀɪᴠᴀᴛᴇ
 🖥️ ᴡᴇʙsɪᴛᴇ : <a href='{}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/AV_OWNER_BOT'>ᴀᴍᴀɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>"""
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/DVITTAL_BOT'>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥</a></b>"""
     
 
     # ── ᴀᴠ ʙᴏᴛᴢ ─────────────────────────────
@@ -64,14 +64,14 @@ class script(object):
     ABOUT_TXT = """<b>╭─━━━ ✦ ᴀʙᴏᴜᴛ ʙᴏᴛ ✦ ━━━─╮
 │
 │ 🤖 ɴᴀᴍᴇ : <code>{}</code>
-│ 👑 ᴏᴡɴᴇʀ : <a href="https://t.me/AV_OWNER_BOT">ᴀᴍᴀɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
-│ 📢 ᴜᴘᴅᴀᴛᴇs : <a href="https://t.me/AV_BOTz_UPDATE">ᴀᴠ ʙᴏᴛᴢ</a>
+│ 👑 ᴏᴡɴᴇʀ : <a href="https://t.me/DVITTAL_BOT">𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥</a>
+│ 📢 ᴜᴘᴅᴀᴛᴇs : <a href="https://t.me/DVITTALBOTZ">𝗨𝗣𝗗𝗔𝗧𝗘 𝗕𝗢𝗧𝗦</a>
 │ 🚀 ᴠᴇʀsɪᴏɴ : v2.6
 │ 🐍 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 3
 │ 📚 ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
 │ 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ᴋᴏʏᴇʙ
 │
-╰─━━━ ✦ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴠ ʙᴏᴛᴢ ✦ ━━━─╯</b>"""
+╰─━━━ ✦ ᴘᴏᴡᴇʀᴇᴅ ʙʏ DVITTAL BOTZ ✦ ━━━─╯</b>"""
 
     LOG_TEXT = """<b>#NewUser {}
     
